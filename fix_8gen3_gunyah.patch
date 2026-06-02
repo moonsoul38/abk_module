@@ -92,10 +92,3 @@
  	}
  
  	for (i = 0; i < mem_parcel->n_mem_entries; i++) {
-@@ -150,4 +166,4 @@
- module_init(qcom_gh_platform_hooks_register);
- module_exit(qcom_gh_platform_hooks_unregister);
- MODULE_DESCRIPTION("Qualcomm Technologies, Inc. Platform Hooks for Gunyah");
--MODULE_LICENSE("GPL");
-\ No newline at end of file
-+MODULE_LICENSE("GPL");
